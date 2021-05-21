@@ -1,0 +1,6 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(144, 184, 219);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
